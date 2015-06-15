@@ -2,6 +2,6 @@
 {
     public interface IPubService
     {
-
+        bool Initialized { get; }
     }
 }

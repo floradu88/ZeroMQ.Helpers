@@ -74,9 +74,6 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <WCFMetadata Include="Service References\" />
-  </ItemGroup>
-  <ItemGroup>
     <ProjectReference Include="..\ZeroMQ.Helpers\ZeroMQ.Helpers.csproj">
       <Project>{8a08929c-c7a5-458a-9933-e93376ccfccf}</Project>
       <Name>ZeroMQ.Helpers</Name>
