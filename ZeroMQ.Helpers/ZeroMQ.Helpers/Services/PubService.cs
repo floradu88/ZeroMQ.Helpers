@@ -41,5 +41,25 @@ namespace ZeroMQ.Helpers.Services
             {
             }
         }
+
+
+        public bool SendMessage(string topic, string message)
+        {
+            using (var msg = new ZMessage())
+            {
+                try
+                {
+                    msg.Add(new ZFrame(topic));
+                    msg.Add(new ZFrame(message));
+                    _publisher.Send(msg);
+                }
+                catch 
+                {
+                    //exception logging
+                    return false;
+                }
+            }
+            return true;
+        }
     }
 }

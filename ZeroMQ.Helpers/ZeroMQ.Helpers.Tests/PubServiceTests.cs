@@ -58,5 +58,47 @@ namespace ZeroMQ.Helpers.Tests
             //assert
             Assert.That(_pubService.Initialized, Is.True);
         }
+
+        [Test]
+        public void should_publish_message_with_topic_when_I_use_a_pub_service()
+        {
+            //arrange
+            string topic = "topicA";
+            string message = "messageA";
+
+            //act 
+            bool result = _pubService.SendMessage(topic, message);
+
+            //assert
+            Assert.That(result, Is.True);
+        }
+
+        [Test]
+        public void should_not_publish_empty_message_with_topic_when_I_use_a_pub_service()
+        {
+            //arrange
+            string topic = "topicA";
+            string message = null;
+
+            //act 
+            bool result = _pubService.SendMessage(topic, message);
+
+            //assert
+            Assert.That(result, Is.False);
+        }
+
+        [Test]
+        public void should_not_publish_message_with_empty_topic_when_I_use_a_pub_service()
+        {
+            //arrange
+            string topic = null;
+            string message = "messageA";
+
+            //act 
+            bool result = _pubService.SendMessage(topic, message);
+
+            //assert
+            Assert.That(result, Is.False);
+        }
     }
 }
