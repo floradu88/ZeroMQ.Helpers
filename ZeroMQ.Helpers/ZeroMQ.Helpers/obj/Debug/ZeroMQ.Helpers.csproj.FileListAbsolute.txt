@@ -1,0 +1,10 @@
+E:\Work\github\ZeroMQ.Helpers\ZeroMQ.Helpers\ZeroMQ.Helpers\bin\Debug\amd64\libsodium.dll
+E:\Work\github\ZeroMQ.Helpers\ZeroMQ.Helpers\ZeroMQ.Helpers\bin\Debug\amd64\libzmq.dll
+E:\Work\github\ZeroMQ.Helpers\ZeroMQ.Helpers\ZeroMQ.Helpers\bin\Debug\i386\libsodium.dll
+E:\Work\github\ZeroMQ.Helpers\ZeroMQ.Helpers\ZeroMQ.Helpers\bin\Debug\i386\libzmq.dll
+E:\Work\github\ZeroMQ.Helpers\ZeroMQ.Helpers\ZeroMQ.Helpers\bin\Debug\ZeroMQ.Helpers.dll.config
+E:\Work\github\ZeroMQ.Helpers\ZeroMQ.Helpers\ZeroMQ.Helpers\bin\Debug\ZeroMQ.Helpers.dll
+E:\Work\github\ZeroMQ.Helpers\ZeroMQ.Helpers\ZeroMQ.Helpers\bin\Debug\ZeroMQ.Helpers.pdb
+E:\Work\github\ZeroMQ.Helpers\ZeroMQ.Helpers\ZeroMQ.Helpers\bin\Debug\ZeroMQ.dll
+E:\Work\github\ZeroMQ.Helpers\ZeroMQ.Helpers\ZeroMQ.Helpers\obj\Debug\ZeroMQ.Helpers.dll
+E:\Work\github\ZeroMQ.Helpers\ZeroMQ.Helpers\ZeroMQ.Helpers\obj\Debug\ZeroMQ.Helpers.pdb

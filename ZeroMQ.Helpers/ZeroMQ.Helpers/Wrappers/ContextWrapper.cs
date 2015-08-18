@@ -10,16 +10,18 @@ namespace ZeroMQ.Helpers.Wrappers
 
         public string Address { get; private set; }
 
+        public int TimeoutInMilliseconds { get; private set; }
+
         public ContextWrapper(string address)
             : this(new ZContext(), address)
         {
         }
 
-        internal ContextWrapper(ZContext context, string address)
+        internal ContextWrapper(ZContext context, string address, int timeoutInMilliseconds = 10000)
         {
             Context = context;
             Address = address;
+            TimeoutInMilliseconds = timeoutInMilliseconds;
         }
-
     }
 }

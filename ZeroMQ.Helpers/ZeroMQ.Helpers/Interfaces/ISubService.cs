@@ -4,6 +4,8 @@
     {
         bool Initialized { get; }
 
-        bool Subscribe(string topic);
+        ZSocket Subscribe(string topic);
+
+        string ReceiveMessage();
     }
 }

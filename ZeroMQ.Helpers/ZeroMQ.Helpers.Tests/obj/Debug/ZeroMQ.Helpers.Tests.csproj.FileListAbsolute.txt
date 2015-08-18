@@ -1,0 +1,14 @@
+E:\Work\github\ZeroMQ.Helpers\ZeroMQ.Helpers\ZeroMQ.Helpers.Tests\bin\Debug\amd64\libsodium.dll
+E:\Work\github\ZeroMQ.Helpers\ZeroMQ.Helpers\ZeroMQ.Helpers.Tests\bin\Debug\amd64\libzmq.dll
+E:\Work\github\ZeroMQ.Helpers\ZeroMQ.Helpers\ZeroMQ.Helpers.Tests\bin\Debug\i386\libsodium.dll
+E:\Work\github\ZeroMQ.Helpers\ZeroMQ.Helpers\ZeroMQ.Helpers.Tests\bin\Debug\i386\libzmq.dll
+E:\Work\github\ZeroMQ.Helpers\ZeroMQ.Helpers\ZeroMQ.Helpers.Tests\bin\Debug\ZeroMQ.Helpers.Tests.dll
+E:\Work\github\ZeroMQ.Helpers\ZeroMQ.Helpers\ZeroMQ.Helpers.Tests\bin\Debug\ZeroMQ.Helpers.Tests.pdb
+E:\Work\github\ZeroMQ.Helpers\ZeroMQ.Helpers\ZeroMQ.Helpers.Tests\bin\Debug\nunit.framework.dll
+E:\Work\github\ZeroMQ.Helpers\ZeroMQ.Helpers\ZeroMQ.Helpers.Tests\bin\Debug\ZeroMQ.dll
+E:\Work\github\ZeroMQ.Helpers\ZeroMQ.Helpers\ZeroMQ.Helpers.Tests\bin\Debug\ZeroMQ.Helpers.dll
+E:\Work\github\ZeroMQ.Helpers\ZeroMQ.Helpers\ZeroMQ.Helpers.Tests\bin\Debug\ZeroMQ.Helpers.pdb
+E:\Work\github\ZeroMQ.Helpers\ZeroMQ.Helpers\ZeroMQ.Helpers.Tests\bin\Debug\nunit.framework.xml
+E:\Work\github\ZeroMQ.Helpers\ZeroMQ.Helpers\ZeroMQ.Helpers.Tests\obj\Debug\ZeroMQ.Helpers.Tests.csprojResolveAssemblyReference.cache
+E:\Work\github\ZeroMQ.Helpers\ZeroMQ.Helpers\ZeroMQ.Helpers.Tests\obj\Debug\ZeroMQ.Helpers.Tests.dll
+E:\Work\github\ZeroMQ.Helpers\ZeroMQ.Helpers\ZeroMQ.Helpers.Tests\obj\Debug\ZeroMQ.Helpers.Tests.pdb
